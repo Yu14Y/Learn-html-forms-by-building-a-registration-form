@@ -26,6 +26,6 @@ I will not be merging any PR related to index.html or styles.css but other PR th
 
 # Screenshots
 
-Repo Not done, come back later
+![alt text](image.png)
 
 [Back to Top](#Learn-html-forms-by-building-a-registration-form)
