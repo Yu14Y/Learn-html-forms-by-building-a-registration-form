@@ -1,3 +1,7 @@
+# ARCHIVED
+As the new Curriculum is coming out, this repo will be considered as an legacy project. in the new Curriculum they may have changed some stuff, 
+
+
 # Learn-html-forms-by-building-a-registration-form
 A Flawless Registration Form from [FreeCodeCamp Responsive Web Design Course 2022 ](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-html-forms-by-building-a-registration-form)
 
